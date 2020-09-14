@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
   },
   gridItem: {
     flex: 1,
-    margin: 15,
+    margin: 16,
     height: 150,
   },
 });
